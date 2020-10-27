@@ -15,7 +15,7 @@ cmdln==2.0.0
 CodeIntel==2.0.0
 colorama==0.4.3
 constantly==15.1.0
-cryptography==2.8
+cryptography==3.2
 cssselect==1.1.0
 cycler==0.10.0
 decorator==4.4.2
